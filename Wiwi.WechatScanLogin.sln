@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wiwi.WechatScanLogin.Api", "Wiwi.WechatScanLogin.Api\Wiwi.WechatScanLogin.Api.csproj", "{02008D13-2608-4A60-B4D7-56EEC53C2B55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wiwi.Sample.Common", "Wiwi.Sample.Common\Wiwi.Sample.Common.csproj", "{D0A65CEB-24C7-414A-880F-AC262D8F33EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02008D13-2608-4A60-B4D7-56EEC53C2B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02008D13-2608-4A60-B4D7-56EEC53C2B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02008D13-2608-4A60-B4D7-56EEC53C2B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02008D13-2608-4A60-B4D7-56EEC53C2B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A65CEB-24C7-414A-880F-AC262D8F33EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A65CEB-24C7-414A-880F-AC262D8F33EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A65CEB-24C7-414A-880F-AC262D8F33EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A65CEB-24C7-414A-880F-AC262D8F33EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B4248C-FB1A-4A2C-81D0-F5AE4850779D}
+	EndGlobalSection
+EndGlobal
